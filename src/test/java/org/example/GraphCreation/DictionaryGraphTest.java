@@ -1,7 +1,5 @@
 package org.example.GraphCreation;
 
-import GraphCreation.DictionaryGraph;
-import GraphCreation.Edge;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

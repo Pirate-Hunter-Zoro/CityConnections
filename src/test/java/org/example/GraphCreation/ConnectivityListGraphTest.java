@@ -1,9 +1,5 @@
 package org.example.GraphCreation;
 
-import GraphCreation.ConnectivityListGraph;
-import GraphCreation.Edge;
-import GraphCreation.Node;
-import GraphCreation.NodeLengthPair;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;

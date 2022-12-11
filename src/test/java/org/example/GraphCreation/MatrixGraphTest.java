@@ -1,7 +1,5 @@
 package org.example.GraphCreation;
 
-import GraphCreation.Edge;
-import GraphCreation.MatrixGraph;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;

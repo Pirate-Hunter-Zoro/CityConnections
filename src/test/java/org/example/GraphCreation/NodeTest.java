@@ -1,7 +1,5 @@
 package org.example.GraphCreation;
 
-import GraphCreation.Node;
-import GraphCreation.NodeLengthPair;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

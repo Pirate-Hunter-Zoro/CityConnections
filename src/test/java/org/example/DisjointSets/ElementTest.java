@@ -1,6 +1,5 @@
 package org.example.DisjointSets;
 
-import DisjointSets.Element;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

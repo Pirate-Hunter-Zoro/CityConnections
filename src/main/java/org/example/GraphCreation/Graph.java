@@ -7,7 +7,7 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.TreeSet;
 
-import DisjointSets.*;
+import org.example.DisjointSets.*;
 
 /**
  * Requires certain graph behavior

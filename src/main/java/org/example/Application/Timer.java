@@ -15,8 +15,7 @@ package org.example.Application;/* *****************************************
  *
  * *****************************************/
 
-import GraphCreation.ConnectivityListGraph;
-import GraphCreation.FileReader;
+import org.example.GraphCreation.*;
 
 public class Timer {
 
