@@ -12,7 +12,8 @@ Mikey Ferguson<br>
 Nishant Shrestha<br>
 
 ## Project Information
-*This project reads in a collection of edges from a file, which represent edges between nodes in a graph. Then, the user has a choice to implement different underlying graph structures and different algorithms to yield a minimum spanning tree.*
+*This project reads in a collection of edges from a file, which represent edges between nodes in a graph. Edges are defined explicitly in each location text file, which implicitly defines the nodes. There are no disconnected nodes–all graphs are connected. <br>
+The graph sizes and runtimes for each algorithm are presented, and the most recently run minimum spanning tree result is stored in 'Output.txt'. The way the Timer class is set up, this means that a minimum spanning tree of 'SanFrancisco.txt' is in 'Output.txt'.*
 
 ## How to run it
 *Navigate to a folder on your computer in which you would like the project contents to go. Then run the following command: <br>*
