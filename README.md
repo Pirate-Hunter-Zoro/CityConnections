@@ -16,7 +16,7 @@ Nishant Shrestha<br>
 
 ## How to run it
 *Navigate to a folder on your computer in which you would like the project contents to go. Then run the following command: <br>*
-git clone ... <br>
+git clone https://github.com/Pirate-Hunter-Zoro/CityConnections.git <br>
 *This should create a folder named 'CityConnections'. Navigate into this folder via the terminal. Then run the command:<br>*
 gradle wrapper <br>
 *Once this operation completes, run the command: <br>*
